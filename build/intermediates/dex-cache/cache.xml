@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7e57ebd0438c4ed0cb7e02236e599f96548701e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_06893bb890e73479a22cd2441e0e629d025257a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_2f2674f8127b3f2dc2c828b1215a6067a0d23579.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_66bf687b8e7b41acb8c3ba1d9c51034c14225c99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.0_53284cfababf7f75f808f4faeeb79070cdb70fad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_745b74fc3c705be4f2505c2eb7246845e3c7d33b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui\0.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="16226703bab55ec42457666213cd3503799d36a8">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-0.6.0_ed834da5f96e0fcd21f4f32a8414e6598abec2d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-23.4.0_2c608887c90a6fa0ce48595c36541ef9e205613c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.6.0_9c1e7bf27ac2957ab8a901b59ca78648e8d381d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_e3d9178c43653ac1edb48a75a732a4058fc0a7b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.6.0_4595f497319fa79aa692f985f79a8d9723d95677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_c764816662d972aedf140e9a6f1099042c80018f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.6.0_47c0a082f4251a42acafd79b715ce2a84d13da1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.7.2\8b8310381b690e317f5f0574e9b2dd7034778b4c\jackson-core-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8b8310381b690e317f5f0574e9b2dd7034778b4c">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\jackson-core-2.7.2_47b70126f0cee1df51669f3b6decc3a7ad412e56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.7.2\84ffa765dd258dbab8695963c41308b054f3a1cb\jackson-databind-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="84ffa765dd258dbab8695963c41308b054f3a1cb">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\jackson-databind-2.7.2_ce76853d4cccb81bcad963fe5ab1faa6c48e7a60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.0_1a140ab3b31ae7e8866b896357dc10927ffc323b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_51fd26e1097924347cbd8c32c869c4b96868dc93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_29c57461299a0a600c1754423e8edb1edd47d58d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_53cb8f05fd30f5b4043c4073dbc09b32a0189fbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_2035177c17fefeb6ea5d22149130e4d774fd57af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.6.0_8a6cc1e802cb03872ba79b2c9544ff85f2a6b569.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_5f38e1b74fd984f3cddcd6f1c14d0c1ef1864ead.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\jp.wasabeef\glide-transformations\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="df451c6f391e3e32022fc964ed87bd57a5869128">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\jp.wasabeef-glide-transformations-2.0.1_a5fa8f27caa01223d4df56bbc329b0befff71620.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_05e041a36c8a2c2bfc7ea451888af42b5b6e2865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.0_fbe3e253ccb0962013926fc639cdfc9b3d8b7e9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.7.0\19f42c154ffc689f40a77613bc32caeb17d744e3\jackson-annotations-2.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="19f42c154ffc689f40a77613bc32caeb17d744e3">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.7.0_258b25ad9bc42b3b3f35e36a39dd861544e088e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_8d2a12de2123c30ccfda4d7e74968b06caa383c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.14.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.14.1_03940ebce0b3a5e7afda2faac2616d9fe7595d81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_fbc457051bafb9e2a2fe5e714e6e29324ec13daa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-storage\0.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-storage-0.6.0_7219d989183c096e939348894e1b27de52d1c634.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.0_d7b57e89a74235cfc519f39ce1599f25f48e143a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_23a88d144929b6bb0b26961d54ec03e2991993e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.6.0_084d2ef796c9e16ffed9964084e512aba0c448a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.6.0_f14c4c69744b7a410ed3e43d4426ddba20b76fca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_b60fe1d126cb8a3087b8e5a37e64a15b627181ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.0_399243e51159a1c6d1ffcb4df699af928e97bff9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b7c4e310bb62044a3638c5e65385484cc308b9f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8b2dfe01de62577f9e0c16843447358b4576237c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_d387a06608ec357a8b12700fe280cc4dcc4c7aae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ebf985be182798e6322fee8fe437b14ee6bb8609">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-database-0.6.0_ab6289f00db8dbab38e77ff3c7c96c905e816dd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.6.0_4ddf26de990638dea3dffa433fb706ce179c908e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba2f029ff37297295d2d197ac6e957b361bfccaf">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.6.0_1fae025cb739dd614941e9d66056360e01a55ec7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-auth\0.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ac09931704b91e7b4d281f5e34b3b006b628c22">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-auth-0.6.0_937a2739e57fd69e261a6908e79f4fbf24903f3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.android.support\palette-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-23.4.0_a759200f9e11bc5d69910205cc61ac90afac13ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.6.0_93901e7d11e995710c308fe76db5988a2edbe57b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.0_ec817a38a3020beb34d35d0544d44585b2ff8cd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.0_093bd1685ab70e3439fa3063fd07189e4be0c4fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.6.0_d7b2ddb29d34fe7658891ddb3f3fed6da0630c42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\glide-3.7.0_d62f8047627a922f42afab1b376ea945eeff78ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.6.0_057c3757ac6f856ade8790cd310569d8fb820e7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="C:\Users\Darsiwan\AndroidStudioProjects\FirebaseChatApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.6.0_90c4d6c687e34738ee476a56c980f5c18427d8dc.jar" />
+    </item>
+
+</items>
